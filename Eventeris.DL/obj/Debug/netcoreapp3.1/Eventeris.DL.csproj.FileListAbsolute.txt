@@ -1,0 +1,9 @@
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\bin\Debug\netcoreapp3.1\Eventeris.DL.deps.json
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\bin\Debug\netcoreapp3.1\Eventeris.DL.dll
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\bin\Debug\netcoreapp3.1\Eventeris.DL.pdb
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\obj\Debug\netcoreapp3.1\Eventeris.DL.csprojAssemblyReference.cache
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\obj\Debug\netcoreapp3.1\Eventeris.DL.AssemblyInfoInputs.cache
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\obj\Debug\netcoreapp3.1\Eventeris.DL.AssemblyInfo.cs
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\obj\Debug\netcoreapp3.1\Eventeris.DL.csproj.CoreCompileInputs.cache
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\obj\Debug\netcoreapp3.1\Eventeris.DL.dll
+C:\src\DF1_grupo3\Eventeris\Eventeris.DL\obj\Debug\netcoreapp3.1\Eventeris.DL.pdb

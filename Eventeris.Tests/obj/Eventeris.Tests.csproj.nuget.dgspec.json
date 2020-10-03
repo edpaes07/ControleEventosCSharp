@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.Tests\\Eventeris.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.API\\Eventeris.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.API\\Eventeris.API.csproj",
+        "projectName": "Eventeris.API",
+        "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.API\\Eventeris.API.csproj",
+        "packagesPath": "C:\\Users\\edmilson.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edmilson.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj"
+              },
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj"
+              },
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj",
+        "projectName": "Eventeris.BLL",
+        "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj",
+        "packagesPath": "C:\\Users\\edmilson.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edmilson.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj"
+              },
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj",
+        "projectName": "Eventeris.DAL",
+        "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj",
+        "packagesPath": "C:\\Users\\edmilson.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edmilson.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj",
+        "projectName": "Eventeris.DL",
+        "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\Eventeris.DL.csproj",
+        "packagesPath": "C:\\Users\\edmilson.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edmilson.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.Tests\\Eventeris.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.Tests\\Eventeris.Tests.csproj",
+        "projectName": "Eventeris.Tests",
+        "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.Tests\\Eventeris.Tests.csproj",
+        "packagesPath": "C:\\Users\\edmilson.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edmilson.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.API\\Eventeris.API.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.API\\Eventeris.API.csproj"
+              },
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.BLL\\Eventeris.BLL.csproj"
+              },
+              "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj": {
+                "projectPath": "C:\\src\\DF1_grupo3\\Eventeris\\Eventeris.DAL\\Eventeris.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

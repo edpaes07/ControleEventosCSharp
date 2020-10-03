@@ -1,0 +1,14 @@
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.BLL.deps.json
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.BLL.dll
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.BLL.pdb
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.DAL.dll
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.DL.dll
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.DAL.pdb
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\bin\Debug\netcoreapp3.1\Eventeris.DL.pdb
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.csprojAssemblyReference.cache
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.AssemblyInfoInputs.cache
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.AssemblyInfo.cs
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.csproj.CoreCompileInputs.cache
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.csproj.CopyComplete
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.dll
+C:\src\DF1_grupo3\Eventeris\Eventeris.BLL\obj\Debug\netcoreapp3.1\Eventeris.BLL.pdb
